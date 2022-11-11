@@ -1,0 +1,13 @@
+/*
+Primary: #EFF5F5
+Secundary: #D6E4E5
+Light: #497174
+info: #EB6440
+*/
+
+.text_light{
+    color:  #497174;
+}
+.bg-primary{
+    background-color:#EFF5F5 ;
+}
