@@ -9,5 +9,24 @@ info: #EB6440
     color:  #497174;
 }
 .bg-primary{
-    background-color:#EFF5F5 ;
+    background-color:#16545f ;
 }
+.text-secundary{
+    color: #411010
+}
+.text-center{
+    text-align:  center;
+}
+.width-100{
+    width: 100px;
+}
+.bg-info{
+    background-color: chocolate;
+}
+.text-primary{
+    color:darkolivegreen;
+}
+.text-white{
+    color: wheat;
+}
+
